@@ -1,4 +1,4 @@
-# electronic_design_competition_summary
+# Electronic Design Competition Summary
 
 ### 波形信号生成器项目链接
 
