@@ -1,6 +1,6 @@
 # Electronic Design Competition Summary
 
-### 波形信号生成器项目链接
+### 波形信号生成器：项目链接
 
 [spcrey/wavefrom (github.com)](https://github.com/spcrey/wavefrom)
 
